@@ -15,6 +15,7 @@ public class Git_projet {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+System.out.println("Bonjour l'equipe");
     }
     
 }
